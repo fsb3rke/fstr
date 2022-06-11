@@ -1,0 +1,2 @@
+# fstr
+simple text formatter
