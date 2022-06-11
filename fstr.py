@@ -1,3 +1,5 @@
+# AUTHOR: BERKE AVCI
+
 def fstr(var:str):
     m_var = var
     lexer = []
