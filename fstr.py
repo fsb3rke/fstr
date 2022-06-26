@@ -1,4 +1,4 @@
-# AUTHOR: BERKE AVCI
+# AUTHOR: fsb3rke
 
 def fstr(var:str):
     m_var = var
